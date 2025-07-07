@@ -5,7 +5,7 @@ This project explores trends and patterns in the **Top 100 SaaS Companies of 202
 
 ## 📊 Dataset Overview
 
-- **Source**: ![Top 100 SaaS Companies](https://www.kaggle.com/datasets/shreyasdasari7/top-100-saas-companiesstartups)
+- **Source**: [Top 100 SaaS Companies](https://www.kaggle.com/datasets/shreyasdasari7/top-100-saas-companiesstartups)
 - **Rows**: 100 companies
 - **Columns**: Company Name, Founded Year, HQ, Industry, ARR (Annual Recurring Revenue), Valuation, Funding, Employees, and more.
 
